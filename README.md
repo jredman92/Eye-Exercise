@@ -4,6 +4,8 @@ Description: This project was designed to show how to use javaScript code to mak
 
 How to run: Copy all the files in the repository. Open the html file up in your browser.
 
+Future Improvements: I plan on making a nose and mouse that will do different actions based on where the cursor is
+
 MIT License
 
 Copyright (c) [2022] [Jaymie Redman]
